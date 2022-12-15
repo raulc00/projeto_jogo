@@ -2,13 +2,14 @@
 
     width: 100%;
     display: flex;
+    flex-direction: column;
 }
 
 .menu_top {
     background-color: black;
     overflow: hidden;
     margin: 0 auto;
-   
+
 }
 
 .menu_top a {
@@ -35,6 +36,7 @@
 
     width: 100%;
     display: flex;
+    flex-direction: row;
 }
 
 .menu_console{
@@ -43,6 +45,16 @@
     overflow: hidden;
     margin: 0 auto;
    
+}
+
+.menu_console h1{
+
+    color: yellow;
+    display: block;
+    padding: 3px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
 }
 
 .menu_console a{

@@ -3,4 +3,4 @@
 
  <a href="https://raulc00.github.io/projeto_jogo/html/index.html">Link do site</a>
 
- TODO: Transferir arquivos .html para pasta html
+
